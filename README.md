@@ -9,12 +9,13 @@
         y = 0 → continue
        ```    
     * User event sequence：
-    | step t | step t+1 |
-    | :---:| :---: |
-    | view | view |
-    | view | add cart |
-    | view | add cart |
-    | add | None (-> drop) |
+  
+        | step t | step t+1 |
+        | :---:| :---: |
+        | view | view |
+        | view | add cart |
+        | view | add cart |
+        | add | None (-> drop) |
   
 * Goal:
     * User drop-off rate reduction
