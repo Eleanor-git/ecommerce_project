@@ -1,0 +1,6 @@
+.idea
+.ipynb_checkpoints
+*.tar
+.DS_Store
+ecommerce_data
+
